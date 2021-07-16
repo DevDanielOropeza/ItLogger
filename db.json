@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "Changed network card on server 007",
+      "attention": false,
+      "tech": "Jonh Doe",
+      "date": "2021-02-04T23:47:33.676Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "fixed 002 hard drive",
+      "attention": false,
+      "tech": "Jonh Doe",
+      "date": "2021-02-04T23:48:06.400Z"
+    },
+    {
+      "message": "fixed 003 hard drive",
+      "attention": true,
+      "tech": "Sara Willson",
+      "date": "2021-02-04T23:47:50.979Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Jonh",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Willson"
+    },
+    {
+      "firstName": "Luis Daniel",
+      "lastName": "Oropeza Matuz",
+      "id": 4
+    }
+  ]
+}
